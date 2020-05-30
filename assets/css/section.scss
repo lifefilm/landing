@@ -1,0 +1,39 @@
+.section {
+
+  &-header {
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 3rem;
+    letter-spacing: 1px;
+  }
+
+  &-text {
+    font-size: 1.5rem;
+  }
+
+  &-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //overflow: hidden;
+
+    img {
+      //border: 1px solid yellow;
+      object-fit: cover;
+      width: 90%;
+    }
+  }
+
+}
+
+
+@media screen and (max-width: 960px) {
+  .section {
+    text-align: center;
+
+    &-image {
+      margin-top: 2rem;
+    }
+  }
+
+}

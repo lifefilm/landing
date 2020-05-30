@@ -1,0 +1,45 @@
+{
+  "BUTTON": {
+    "CREATE": "Crear película",
+    "LOGIN": "Sesión",
+    "MORE": "Leer",
+    "FREE": "Pruébalo gratis"
+  },
+  "HERO": {
+    "HEADER": "Vídeo inspirador en un instante",
+    "SUBHEADER": "AI Video Maker"
+  },
+  "FEATURES": {
+    "1": {
+      "HEADER": "Plantilla",
+      "TEXT": "Crea videos cinematográficos con una variedad de plantillas"
+    },
+    "2": {
+      "HEADER": "IA creativa",
+      "TEXT": "Creative AI analiza tu video y selecciona los mejores momentos"
+    },
+    "3": {
+      "HEADER": "Social",
+      "TEXT": "Hacer vídeos en cualquier dimensión (cuadrado, horizontal, vertical)"
+    }
+  },
+  "ABOUT": {
+    "HEADER": "Vídeo en un instante",
+    "SUBHEADER": "AI Video Maker"
+  },
+  "MENU": {
+    "HOME": "Casa",
+    "ABOUT": "Sobre",
+    "EDITOR": "Editor",
+    "BLOG": "Blog",
+    "OLD": "Versión antigua",
+    "CONTACTS": "Contacto",
+    "COOKIES": "Política de cookies",
+    "PRIVACY": "Política de privacidad",
+    "TERMS": "Términos de servicio"
+  },
+  "META": {
+    "TITLE": "Editor de video en línea | AI Video Maker",
+    "DESCRIPTION": "Edición automática de vídeo. Rápido, fácil y gratuito. Música, efectos, plantillas. Edición de vídeo en línea con Inteligencia Artificial."
+  }
+}
