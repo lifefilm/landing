@@ -5,9 +5,7 @@
         <img src="@/assets/svg/logo-life2film.svg" alt="LIFE2FILM">
       </a>
     </div>
-    <div class="column col-4 lang_switcher-header">
-      <LangSwitch />
-    </div>
+
     <div class="navbar-btn">
       <Button text="BUTTON.LOGIN" :link="link" />
     </div>
@@ -16,13 +14,11 @@
 
 <script>
 import Button from '~/components/Common/Button'
-import LangSwitch from '~/components/LangSwitch'
 const loginUrl = process.env.BUTTON_LOGIN_URL || 'https://life2film.com/editor/'
 export default {
   name: 'Header',
   components: {
-    Button,
-    LangSwitch
+    Button
   },
   props: {
     link: {

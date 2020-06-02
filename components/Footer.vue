@@ -12,10 +12,10 @@
     </div>
     <div class="line " />
     <div class="row">
-      <div class="column col-6">
+      <div class="column col-3">
         <MenuFooterSecond />
       </div>
-      <div class="column col-3">
+      <div class="column col-5">
         <LangSwitch />
       </div>
     </div>

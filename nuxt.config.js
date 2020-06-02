@@ -139,22 +139,43 @@ export default {
         code: 'ru',
         name: 'Russian',
         file: 'ru-RU.json',
-        iso: 'ru-RU',
-        domain: 'lifefilm.ru'
+        iso: 'ru-RU'
       },
       {
         code: 'en',
         name: 'English',
         file: 'en-US.json',
-        iso: 'en-US',
-        domain: 'life2film.com'
+        iso: 'en-US'
       },
       {
         code: 'hi',
         name: 'Hindi',
         file: 'hi-IN.json',
-        iso: 'hi-IN',
-        domain: 'life2film.com'
+        iso: 'hi-IN'
+      },
+      {
+        code: 'es',
+        name: 'Spanish',
+        file: 'es.json',
+        iso: 'es'
+      },
+      {
+        code: 'zh-Hans',
+        name: 'Chinese',
+        file: 'zh-Hans.json',
+        iso: 'zh-Hans'
+      },
+      {
+        code: 'uk',
+        name: 'Ukrainian',
+        file: 'uk.json',
+        iso: 'uk'
+      },
+      {
+        code: 'be',
+        name: 'Belarusian',
+        file: 'be.json',
+        iso: 'be'
       }
       // {
       //   code: 'ba',

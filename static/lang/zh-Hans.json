@@ -1,0 +1,45 @@
+{
+  "BUTTON": {
+    "CREATE": "创造视频",
+    "LOGIN": "进入",
+    "MORE": "往下",
+    "FREE": "免费尝试"
+  },
+  "HERO": {
+    "HEADER": "创造惊人的视频",
+    "SUBHEADER": "智能在线视频编辑器"
+  },
+  "FEATURES": {
+    "1": {
+      "HEADER": "模板",
+      "TEXT": "使用各种模板创造电影视频"
+    },
+    "2": {
+      "HEADER": "人工智能",
+      "TEXT": "创造性的AI分析您的视频并先择最佳的时刻"
+    },
+    "3": {
+      "HEADER": "社交",
+      "TEXT": "导出各种格式（方形，水平，垂直）"
+    }
+  },
+  "ABOUT": {
+    "HEADER": "现在就开始使用",
+    "SUBHEADER": "AI 视频创造器"
+  },
+  "MENU": {
+    "HOME": "主页",
+    "ABOUT": "关于我们",
+    "EDITOR": "编辑器",
+    "BLOG": "博客",
+    "OLD": "旧版",
+    "CONTACTS": "联系我们",
+    "COOKIES": "Cookies",
+    "PRIVACY": "隐私权政策",
+    "TERMS": " 服务条款"
+  },
+  "META": {
+    "TITLE": "在线视频编辑器。视频配音乐。免费！",
+    "DESCRIPTION": "自动视频编辑。快速，简单和免费。音乐，效果，模板。AI在线视频编辑器。"
+  }
+}
