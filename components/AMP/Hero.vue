@@ -5,12 +5,13 @@
       <h2>{{ $t('HERO.SUBHEADER') }}</h2>
       <Button text="BUTTON.CREATE" :gradient="true" :big="true" />
     </div>
-    <div class="column col-5 section-image">
+    <div class="column col-6 section-image">
       <amp-img
         src="/img/hero.jpg"
         alt="AI Video Editor Online"
-        width="480"
-        height="340"
+        width="600px"
+        height="387px"
+        sizes="(max-width: 600px) 600px, 600px"
       />
     </div>
   </section>

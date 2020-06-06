@@ -40,6 +40,10 @@ h4 {
     margin-bottom: 3rem;
     margin-top: 0rem;
   }
+  h4 {
+    font-size: calc(4vw + 4vh + 0vmin);
+    line-height: calc(4vw + 4vh + 0vmin);
+  }
 }
 
 </style>

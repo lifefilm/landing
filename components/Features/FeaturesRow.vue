@@ -26,4 +26,11 @@ export default {
 
 <style scoped>
 
+@media screen and (max-width: 960px) {
+
+  h3{
+    font-size: calc(4vw + 4vh + 0vmin);
+    line-height: calc(4vw + 4vh + 0vmin);
+  }
+}
 </style>

@@ -50,6 +50,7 @@
 
 .btn-gradient:hover {
   @include gradient-reverse();
+  color: yellow;
 }
 
 

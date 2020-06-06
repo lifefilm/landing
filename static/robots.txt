@@ -1,5 +1,7 @@
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /accounts
+Disallow: /editor
 
 User-agent: MJ12bot
 Disallow: /

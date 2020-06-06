@@ -139,19 +139,19 @@ export default {
         code: 'ru',
         name: 'Russian',
         file: 'ru-RU.json',
-        iso: 'ru-RU'
+        iso: 'ru'
       },
       {
         code: 'en',
         name: 'English',
         file: 'en-US.json',
-        iso: 'en-US'
+        iso: 'en'
       },
       {
         code: 'hi',
         name: 'Hindi',
         file: 'hi-IN.json',
-        iso: 'hi-IN'
+        iso: 'hi'
       },
       {
         code: 'es',
@@ -176,6 +176,12 @@ export default {
         name: 'Belarusian',
         file: 'be.json',
         iso: 'be'
+      },
+      {
+        code: 'kk',
+        name: 'Kazakh',
+        file: 'kk.json',
+        iso: 'kk'
       }
       // {
       //   code: 'ba',
@@ -192,7 +198,7 @@ export default {
   sitemap: {
     hostname: process.env.ORIGIN_URL,
     i18n: {
-      defaultLocale: 'en',
+      defaultLocale: 'ru',
       routesNameSeparator: '___'
     },
     exclude: [

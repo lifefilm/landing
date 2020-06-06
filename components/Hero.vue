@@ -5,7 +5,7 @@
       <h2>{{ $t('HERO.SUBHEADER') }}</h2>
       <Button text="BUTTON.CREATE" :gradient="true" :big="true" />
     </div>
-    <div class="column col-5 section-image">
+    <div class="column col-6 section-image">
       <img src="/img/hero.jpg" :alt="$t('META.TITLE')">
     </div>
   </section>

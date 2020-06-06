@@ -50,6 +50,7 @@ img {
   }
   .navbar-logo{
     text-align: center;
+    margin-left: 0;
   }
   .lang_switcher-header, .navbar-btn {
     display: none;
