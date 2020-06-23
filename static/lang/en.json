@@ -1,0 +1,45 @@
+{
+  "BUTTON": {
+    "CREATE": "Create a video",
+    "LOGIN": "Log in",
+    "MORE": "Next",
+    "FREE": "Try for free"
+  },
+  "HERO": {
+    "HEADER": "Awe-inspiring Video in an Instant",
+    "SUBHEADER": "Smart online video maker"
+  },
+  "FEATURES": {
+    "1": {
+      "HEADER": "Templates",
+      "TEXT": "Create cinematic videos with a variety of templates"
+    },
+    "2": {
+      "HEADER": "Artificial intelligence",
+      "TEXT": "Creative AI analyzes your video and selects the best moments"
+    },
+    "3": {
+      "HEADER": "Social",
+      "TEXT": "Make videos in any dimension  (square, horizontal, vertical)"
+    }
+  },
+  "ABOUT": {
+    "HEADER": "Start right now",
+    "SUBHEADER": "AI Video Maker"
+  },
+  "MENU": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "EDITOR": "Editor",
+    "BLOG": "Blog",
+    "OLD": "Old version",
+    "CONTACTS": "Contacts",
+    "COOKIES": "Cookies",
+    "PRIVACY": "Privacy policy",
+    "TERMS": "Terms of Service"
+  },
+  "META": {
+    "TITLE": "Online video editor. Videos with music. For free!",
+    "DESCRIPTION": "Automatic video editing. Fast, simple and free. Music, effects, templates. Online video editor with artificial intelligence. "
+  }
+}
