@@ -1,0 +1,38 @@
+$shadow_color: rgba(201,212,229,0.50071);
+$black: #000020;
+
+$pink: #E32EBE;
+$pink-hover: #aa258d;
+
+$border: #DCE8FD;
+$active-tab: $pink;
+$modal-background: #23277F;
+
+$red: #FF006C;
+
+$yellow: #FEFF00;
+$blue: #00F2E0;
+$blue-dark: #1377f9;
+$night-sky: #23277F;
+$color-link: black;
+
+@mixin gradient(){
+    background: linear-gradient(210deg, #00F2E0 0%, #017AFF 10%, #FA3FA5 50%, #FFA61D 90%, #FEFF00 100%);
+}
+
+@mixin gradient-reverse(){
+    background: linear-gradient(-45deg, #00F2E0 0%, #017AFF 10%, #FA3FA5 50%, #FFA61D 90%, #FEFF00 100%);
+}
+
+@mixin shadow(){
+  box-shadow: 0 2px 10px 1px #6f9cea1f;
+}
+
+@mixin shadow-50(){
+  box-shadow: 0 2px 50px 1px #E1EBFC;
+}
+
+// для иконок, 3 размера, 3 диаметра логотипа
+$size36: 2.25rem;
+$size30: 1.875rem;
+$size24: 1.5rem;
