@@ -16,7 +16,7 @@
     },
     "2": {
       "HEADER": "Artificial Intelligence",
-      "TEXT": "Creative AI analyzes your video and selects the best moments"
+      "TEXT": "Creative AI analyzes your video and automatic selects the best moments"
     },
     "3": {
       "HEADER": "Social",
@@ -24,7 +24,7 @@
     }
   },
   "ABOUT": {
-    "HEADER": "Video in an Instant",
+    "HEADER": "Automatic video editor",
     "SUBHEADER": "AI Video Maker"
   },
   "MENU": {
@@ -39,7 +39,7 @@
     "TERMS": "Terms of Service"
   },
   "META": {
-    "TITLE": "Online Video Editor | AI Video Maker",
+    "TITLE": "Online Video Editor | Automatic Video Maker. Free!",
     "DESCRIPTION": "Automatic video editing. Fast, easy and free. Music, effects, templates. Video editing online with Artificial Intelligence."
   }
 }
