@@ -11,13 +11,15 @@ prod = `arg="$(filter-out $@,$(MAKECMDGOALS))" && echo $${arg:-${1}}`
 
 
 generate: ## Билдим VUE в статичный сайт
-	@yarn generate
+	@npm run generate
 
-life: ## Отсылаем на сервер Hertzner(life2film.com)
-	@scp -r dist/* life:/srv/landing
 
 reg: ## Отсылаем на сервер Reg.ru (lifefilm.ru)
 	@scp -r dist/* reg:www/lifefilm.ru
+
+life: ## Отсылаем на сервер gcloud life
+	@gsutil cp -r dist/* gs://www.life2film.com
+
 
 sentry: ## Отсываем maps в sentry, укажите название релиза name=
 	@RELEASE=${name} yarn sentry_vue
